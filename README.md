@@ -104,7 +104,7 @@ Install dependancies that will create an environment for the app to run
 `pip install -r requirements.txt`
 
 #### Make and run migrations
-```bash
+
 python3.6 manage.py check
 python manage.py makemigrations news
 python3.6 manage.py sqlmigrate news 0001
