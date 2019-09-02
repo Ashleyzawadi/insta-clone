@@ -1,5 +1,6 @@
 # Instagram Clone
-
+# authors
+Charles Osoro
 ### An application that mimics the 
 image sharing network, Instagram
 
