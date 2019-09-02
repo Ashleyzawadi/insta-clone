@@ -1,6 +1,7 @@
 # Instagram Clone
 
-
+# Authors
+Charles Osoro
 
 ### An application that the image sharing network, Instagram
 
@@ -122,14 +123,14 @@ Please read this [comprehensive guide](https://opensource.guide/how-to-contribut
 ## Bugs
 #### Known bugs
  - N/A
- -If any are experiences kindly [contact me](https://charlessciedel@gmail.com)
+ -If any are experiences kindly [contact me](https://chaloo56@gmail.com)
 
 
 
 ## Support and contact details
-Contact [Charles Schiedel](https://charlesschiedel@gmail.com) for further help/support
+Contact [Charles Schiedel](https://chaloo56@gmail.com) for further help/support
 
 ### License
 [MIT LICENSE](LICENCE)
 
-Copyright (c)2018 **Charles Schiedel**
+Copyright (c)2018 **Charles Osoro**
