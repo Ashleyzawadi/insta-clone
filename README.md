@@ -21,6 +21,7 @@ Link to deployed site https://instajram.herokuapp.com/
 6. [Licensing](#license)
 
 
+
 ##Setup and installations
 * Fork the data onto your own personal repository.
 * Clone Project to your machine
