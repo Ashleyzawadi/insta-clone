@@ -29,6 +29,7 @@ Link to deployed site https://instajram.herokuapp.com/
 * On your terminal run `python3.6 manage.py runserver`
 * Access the live site using the local host provided
 
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
