@@ -1,15 +1,10 @@
 # Instagram Clone
 
-# Authors
-Charles Osoro
-
-### An application that the image sharing network, Instagram
-
-
+### An application that mimics the image sharing network, Instagram
 
 ## Description
 This is a clone of the image sharing network, Instagram. Users can sign up login, view and post photos and follow other users.
-Link to deployed site https://instaclone.herokuapp.com/
+Link to deployed site https://instajram.herokuapp.com/
 
 
 ## Table of content
@@ -123,12 +118,12 @@ Please read this [comprehensive guide](https://opensource.guide/how-to-contribut
 ## Bugs
 #### Known bugs
  - N/A
- -If any are experiences kindly [contact me](https://chaloo56@gmail.com)
+ -If any are experiences kindly [contact me](https://charlessciedel@gmail.com)
 
 
 
 ## Support and contact details
-Contact [Charles Schiedel](https://chaloo56@gmail.com) for further help/support
+Contact [Charles Osoro](https://chaloo56@gmail.com) for further help/support
 
 ### License
 [MIT LICENSE](LICENCE)
