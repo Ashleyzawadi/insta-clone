@@ -11,7 +11,8 @@ from .tokens import account_activation_token
 from django.contrib.auth import login
 from django.contrib.auth.models import User
 from .models import Image, Profile
-from django.core.urlresolvers import reverse
+# from django.core.urlresolvers import reverse
+from django.urls import reverse
 
 
 @login_required(login_url='/accounts/register')
