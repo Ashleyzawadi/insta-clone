@@ -6,7 +6,8 @@ image sharing network,
 Instagram
 
 ## Description
-This is a clone of the image sharing network, Instagram. Users can sign up login, view and post photos and follow other users.
+This is a clone
+of the image sharing network, Instagram. Users can sign up login, view and post photos and follow other users.
 Link to deployed site https://instajram.herokuapp.com/
 
 
