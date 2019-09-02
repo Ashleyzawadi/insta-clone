@@ -17,7 +17,7 @@ Link to deployed site https://instajram.herokuapp.com/
 6. [Licensing](#license)
 
 
-## Setup and installations
+##Setup and installations
 * Fork the data onto your own personal repository.
 * Clone Project to your machine
 * Activate a virtual environment on terminal: `source virtual/bin/activate`
@@ -118,7 +118,7 @@ Please read this [comprehensive guide](https://opensource.guide/how-to-contribut
 
 ## Bugs
 #### Known bugs
- - N/A
+ 
  -If any are experiences kindly [contact me](https://charlessciedel@gmail.com)
 
 
