@@ -42,7 +42,8 @@ Give an example
 
 ### And coding style tests
 
-Explain what these tests test and why
+explanation of the tests and why they are =necessary 
+
 
 ```
 Give an example
