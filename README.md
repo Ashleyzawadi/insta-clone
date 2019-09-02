@@ -129,6 +129,7 @@ Please read this [comprehensive guide](https://opensource.guide/how-to-contribut
 Contact [Charles Osoro](https://chaloo56@gmail.com) for further help/support
 
 ### License
+
 [MIT LICENSE](LICENCE)
 
 Copyright (c)2018 **Charles Osoro**
