@@ -2,7 +2,7 @@
 
 
 
-### An application that mimics the image sharing network, Instagram
+### An application that the image sharing network, Instagram
 
 
 
