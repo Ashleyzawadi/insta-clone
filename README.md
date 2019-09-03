@@ -114,7 +114,7 @@ Please read this [comprehensive guide](https://opensource.guide/how-to-contribut
 ## Bugs
 #### Known bugs
  
- -If any are experiences kindly [contact me](https://charlessciedel@gmail.com)
+ -If any are experiences kindly [contact me](https://chaloo56@gmail.com)
 
 
 
