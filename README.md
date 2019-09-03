@@ -26,7 +26,7 @@ Link to deployed site https://instajram.herokuapp.com/
 * Clone Project to your machine
 * Activate a virtual environment on terminal: `source virtual/bin/activate`
 * Install all the requirements found in requirements file.
-* On your terminal run `python3.6 manage.py runserver`
+* On your terminal run`python3.6 manage.py runserver`
 * Access the live site using the local host provided
 
 
