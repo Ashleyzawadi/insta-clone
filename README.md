@@ -22,8 +22,7 @@ Link to deployed site https://instajram.herokuapp.com/
 
 
 ##Setup and installations
-* Fork the data onto your own personal repository.
-* Clone Project to your machine
+* Fork the data onto your own personal repository
 * Activate a virtual environment on terminal: `source virtual/bin/activate`
 * Install all the requirements found in requirements file.
 * On your terminal run`python3.6 manage.py runserver`
