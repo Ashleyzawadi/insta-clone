@@ -3,7 +3,7 @@
 # authors
 Charles Osoro
 
-### An application that mimics the 
+### An application that uses the same consept as the social media platform instagram 
 image sharing network, 
 Instagram
 
@@ -38,9 +38,6 @@ Explain how to run the automated tests for this system
 
 Explain what these tests test and why
 
-```
-Give an example
-```
 
 ### And coding style tests
 
