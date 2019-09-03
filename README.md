@@ -17,7 +17,7 @@ Link to deployed site https://instajram.herokuapp.com/
 2. [Setup and installations](#setup-and-installations)
 3. [Contributing](#contributing)
 4. [Bugs](#bugs)
-5. [Contact me](#support-and-contact-details)
+5. [Contact me ](#support-and-contact-details)
 6. [Licensing](#license)
 
 
@@ -39,14 +39,6 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 
-### And coding style tests
-
-explanation of the tests and why they are =necessary 
-
-
-```
-Give an example
-```
 
 
 #### Prerequisites
