@@ -47,16 +47,16 @@ Explain what these tests test and why
 3. [Pip](https://pip.pypa.io/en/stable/installing/)
 
 #### Technologies used
-    - Python 3.6
+    - Python 3.6 (Django)
     - HTML
     - Bootstrap 4
     - Heroku
     - Postgresql
-    - Django
+  
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/Charlessciedel/Slay-app.git
+git clone https://github.com/Charles-os/insta-clone.git
 ```
 #### Initialize git and add the remote repository
 ```bash
